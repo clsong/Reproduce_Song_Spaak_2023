@@ -1,13 +1,18 @@
 # Code and data for the manuscript "Multitrophic assembly: a perspective from modern coexistence theory"
 
 # System requirements
-- Software dependencies: R (has been tested with R version 4.2.2).
+- Software dependencies: R (has been tested with R version 4.2.2) and Python (has been tested with Python version 3.11.4).
 - Required R packages:
   - tidyverse (version 1.3.2)
   - deSolve (version 1.0.1)
   - geomtextpath (version 0.1.1)
   - patchwork (version 1.1.0)
   - reticulate (version 1.28)
+- Required Python packages:
+  - numpy 
+  - pandas
+  - matplotlib
+  - scipy
 - Required non-standard hardware: none.
 
 # Repository contents
